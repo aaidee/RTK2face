@@ -1,1 +1,1 @@
-# This reads faces file of Koei Romance of three kingdoms 2
+# This reads a faces file of Koei Romance of three kingdoms 2 for DOS
